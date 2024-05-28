@@ -1,5 +1,7 @@
 apiVersion: v1
 kind: ConfigMap
+metadata:
+  name: mycgmap
 data:
   color: "red"
   bgcolor: "brown
